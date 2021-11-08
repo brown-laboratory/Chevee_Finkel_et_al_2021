@@ -1,6 +1,6 @@
 ###############################################################################
 # Generate_Figures_and_Results_CheveeFinkeletal2021.py
-# Download the following files from XXX
+# The following files are necessary and available upon request:
 #   - All_units_OptoMetrics_df.pkl
 #   - master_log (11 pkl parts, A through K)
 #   - S1master_log.pkl
